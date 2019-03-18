@@ -1,0 +1,7 @@
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\bin\Debug\StringCalc.exe.config
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\bin\Debug\StringCalc.exe
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\bin\Debug\StringCalc.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\obj\Debug\StringCalc.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\obj\Debug\StringCalc.exe
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\obj\Debug\StringCalc.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc\obj\Debug\StringCalc.csprojResolveAssemblyReference.cache

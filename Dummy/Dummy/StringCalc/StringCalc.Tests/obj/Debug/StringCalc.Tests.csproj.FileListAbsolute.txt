@@ -1,0 +1,17 @@
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\nunit.engine.dll
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.Tests.dll
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.Tests.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\nunit.framework.dll
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.exe
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.exe.config
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\bin\Debug\nunit.framework.xml
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.csprojResolveAssemblyReference.cache
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.csproj.CopyComplete
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.dll
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.pdb
