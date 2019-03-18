@@ -1,0 +1,7 @@
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\bin\Debug\Dummy.exe.config
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\bin\Debug\Dummy.exe
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\bin\Debug\Dummy.pdb
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\obj\Debug\Dummy.csprojResolveAssemblyReference.cache
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\obj\Debug\Dummy.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\obj\Debug\Dummy.exe
+C:\Users\laptop\Documents\Visual Studio 2017\Projects\Dummy\Dummy\obj\Debug\Dummy.pdb
